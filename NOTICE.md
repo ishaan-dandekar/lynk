@@ -16,4 +16,4 @@ All forks, redistributions, and derivative works **must retain proper attributio
 
 ### Contact
 Original author: Ishaan Dandekar  
-GitHub: <your-profile-link>
+GitHub: https://github.com/ishaan-dandekar
